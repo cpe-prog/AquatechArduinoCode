@@ -1,5 +1,3 @@
 # AquaTech Project
 
-# ARDUINO CODE
-
-- with deffirent sensors the send data to web app realtime using firebase and esp8266 wifi
+- This project usees so many sensor and controls to monitor if the plant is healthy and make more healthy.
